@@ -31,4 +31,4 @@ gcc marks.c -o marks
 
 ## Author
 
-**T-Vamsi Krishna**
+**Riya Jasmine**
